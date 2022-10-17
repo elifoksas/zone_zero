@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appointment">Randevu Ekranı</string>
+    <string name="Search_hint">Klinik ara...</string>
+    <string name="payment">Ödeme Ekranı</string>
+</resources>
